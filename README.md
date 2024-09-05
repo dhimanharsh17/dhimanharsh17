@@ -2,7 +2,7 @@
 ![MasterHead](header.gif)
 <div align="center">
     <h1>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=25&duration=4000&color=1338de&center=true&vCenter=true&width=435&lines=Hey..+I'm+Nipun+Pratap+Singh;This+is.my+Github..;" alt="Typing SVG"/>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=25&duration=4000&color=1338de&center=true&vCenter=true&width=435&lines=Hey..+I'm+Harsh+Dhiman;This+is.my+Github..;" alt="Typing SVG"/>
     </h1>
 </div>
 
@@ -13,9 +13,9 @@
 # 📊 GitHub Stats: <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=Nipun-Pratap-Singh&show_icons=true&theme=dark&locale=en" alt="Nipun-Pratap-Singh" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nipun-Pratap-Singh&show_icons=true&theme=dark&locale=en&layout=compact" alt="Nipun-Pratap-Singh" /></td>
-    <td> <img src="https://streak-stats.demolab.com?user=Nipun-Pratap-Singh&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=dhimanharsh17&show_icons=true&theme=dark&locale=en" alt="Nipun-Pratap-Singh" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=dhimanharsh17&show_icons=true&theme=dark&locale=en&layout=compact" alt="Nipun-Pratap-Singh" /></td>
+    <td> <img src="https://streak-stats.demolab.com?user=dhimanharsh17&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  /></td>
   </tr>
 </table>
 
@@ -64,18 +64,18 @@
 
 ###
 
-<img align="left" src="https://profile-counter.glitch.me/Nipun-Pratap-Singh/count.svg?"  /><br><br>
+<img align="left" src="https://profile-counter.glitch.me/dhimanharsh17/count.svg?"  /><br><br>
 
 ###
 <br clear="both">
 <p align="left">                    
  💬 Ask me about <b>Python, Django</b>
 
-📫 How to reach me **Nipunpratap86300@gmail.com**
+📫 How to reach me **Enter your E-mail**
 </p>
 
  <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ketan-chaudhary" alt="ketan-chaudhary" /></a> </p>-->
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Nipun-Pratap-Singh&theme=darkhub&margin-w=15&title=Repositories,Commits,Experience,Stars,Followers" alt="Nipun-Pratap-Singh" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhimanharsh17&theme=darkhub&margin-w=15&title=Repositories,Commits,Experience,Stars,Followers" alt="Nipun-Pratap-Singh" /></a> </p>
 
 
 
